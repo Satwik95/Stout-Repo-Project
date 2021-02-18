@@ -12,7 +12,8 @@ https://www.kaggle.com/ntnu-testimon/paysim1
 
 ## To run on localhost
 1. Download the repo and the dataset
-2. Run `python final.py` from the terminal. (File name is already hardcoded)
+2. `pip install -r requirements.txt`
+3. Run `python final.py` from the terminal. (File name is already hardcoded)
 
 
 ## Visualizations and Description:
